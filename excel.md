@@ -4,3 +4,8 @@
 #### 2.end of the excelpage:ctrl+end
 #### 3.Auto filter:ctrl+shift+l
 #### 4.select entire row:shift+left arrow
+
+``` js
+const jeni=requirw(express);
+
+```
